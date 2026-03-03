@@ -1,5 +1,5 @@
 <?php
 	echo "primeiro PHP";
-	echo "Segunda linha";
-	echo "Terceira Linha";
+	//variavel de ambiente
+	$num = 10;
  ?>
